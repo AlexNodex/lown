@@ -45,7 +45,7 @@
 | Lown           | HTML                        |
 |----------------|-----------------------------|
 | `[url www… …]` | `<a href="www…">…</a>`      |
-| `[img www… …]` | `</img src="www…" alt="…">` |
+| `[img www… …]` | `<img src="www…" alt="…" />` |
 
 ## Code and maths
 
@@ -65,8 +65,8 @@
 | `[center]…[/center]` | `<div style="text-align: center">…</div>` |
 | `[left]…[/left]`     | `<div style="text-align: left">…</div>`   |
 | `[spoiler …]`        | `<span class="spoiler">…</span>`          |
-| `[/hr]`              | `</hr>`                                   |
-| `[/br]`              | `</br>`                                   |
+| `[/hr]`              | `<hr />`                                   |
+| `[/br]`              | `<br />`                                   |
 
 ## Emojis
 
