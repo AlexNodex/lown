@@ -13,7 +13,7 @@ See the [syntax reference](reference.md) for more information.
 ## Installation (macOS and Linux)
 
 ```
-$ git clone https://github.com/oileurre/lown/
+$ git clone https://github.com/oileurre/lown/ /usr/local/lown
 $ ln -s /usr/local/lown/src/lown.py /usr/local/bin
 ```
 
