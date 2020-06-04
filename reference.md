@@ -45,7 +45,7 @@
 | Lown           | HTML                        |
 |----------------|-----------------------------|
 | `[url www… …]` | `<a href="www…">…</a>`      |
-| `[img www… …]` | `</img src="www…" alt="…">` |
+| `[img www… …]` | `<img src="www…" alt="…"/>` |
 
 ## Code and maths
 
